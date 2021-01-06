@@ -5,7 +5,7 @@
 ## 💻 Project
 
  - Learning React Native! :muscle:
- - A simple Todo list app built with React Native.
+ - A simple Todo app built with React Native.
  
 <p>&nbsp;&nbsp;</p>
 
